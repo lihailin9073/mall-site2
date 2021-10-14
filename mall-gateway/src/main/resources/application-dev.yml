@@ -1,0 +1,32 @@
+#server:
+#  port: 8000
+#
+#spring:
+#  application:
+#    name: mall-gateway
+#
+## 安全白名单
+#mall:
+#  auth:
+#    allow-list:
+#      - /actuator/
+#      - /swagger-
+#      - /webjars
+#      - /v2
+#      - /auth/register
+#      - /auth/login
+#      - /auth/login-by-phone
+#      - /auth/login-by-wechat
+#      - /auth/logout
+#      - /sms/get-login-code
+#      - /sms/get-register-code
+#      - /email/get-login-code
+#      - /email/get-register-code
+#      - /open/
+#      - /ads/
+#      - /goods/
+#      - /brand/
+#      - /category/
+#      - /cart/
+#      - /shop/
+#

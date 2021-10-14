@@ -1,0 +1,23 @@
+#server:
+#  port: 8100
+##  servlet:
+##    context-path: /auth
+#
+#spring:
+#  application:
+#    name: mall-auth
+#
+## Swagger配置
+#swagger:
+#  title: mall-site2 安全服务系统接口文档
+#  version: 2021.0
+#  description: 本文档涵盖了安全服务所有API的说明文档以及在线调试服务。
+#  exclude-path: /error # 排除的api
+#  base-package: com.wzliulan.mallsite2.auth
+#  contact:
+#    name: 梧州浏览科技
+#    url: www.wzliulan.com
+#    email: wzliulan@qq.com
+#  authorization:
+#    key-name: token
+#
